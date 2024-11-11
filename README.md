@@ -40,8 +40,8 @@ The security of RSA relies on the difficulty of factoring large numbers; thus, c
 ## Program:
 
 ```
-Name: SAI SANJAY R
-Reg No: 212223040178
+Name: LEKASRI G
+Reg No: 212223100025
 ```
 
 ```
@@ -147,7 +147,7 @@ int main() {
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/d9ff85d5-e73a-42e8-a8db-f54406f95123)
+![exp 9](https://github.com/user-attachments/assets/e670ab06-491d-43d6-b7d2-85e1a533c35e)
 
 ## Result:
  The program is executed successfully.
